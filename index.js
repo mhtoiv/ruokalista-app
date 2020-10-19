@@ -41,7 +41,7 @@ const run = async () => {
 
 run().then();
 
-app.get('/', (req, res) => {
+app.get('/api', (req, res) => {
     menuList.sort((a, b) => {
         return compare(a, b, "RestaurantName")
     });
