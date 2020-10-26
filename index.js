@@ -26,7 +26,6 @@ const run = async () => {
         'https://www.unica.fi/modules/json/json/Index?costNumber=1970&language=fi', //MACCIAVELLI
         'https://www.unica.fi/modules/json/json/Index?costNumber=1995&language=fi', //GALILEI
         'https://www.unica.fi/modules/json/json/Index?costNumber=1900&language=fi', //KISÄLLI
-        'https://www.unica.fi/modules/json/json/Index?costNumber=190001&language=fi', //KAIVOMESTARI
         'https://www.unica.fi/modules/json/json/Index?costNumber=2000&language=fi',//LINUS
         'https://www.unica.fi/modules/json/json/Index?costNumber=1985&language=fi', //DELICA
         'https://www.unica.fi/modules/json/json/Index?costNumber=198501&language=fi', //DELI PHARMA
